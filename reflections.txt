@@ -1,0 +1,8 @@
+How does your gem take advantage of Ruby’s metaprogramming capabilities?
+The gem uses 'define_method' method for each color in the String class.
+How long did you spend working on this project?
+Not too long, I got stuck for a moment because I forgot I was editing the String class but it wasn't very hard.
+What was the most rewarding challenge you conquered?
+The only problem I had was to build the gem everytime I made a change and install it again, I'm wondering if there isn't an other way to code gems.
+Where do you still have room to grow?
+I'd love to contribute one day to the rails gem ! 
